@@ -1,7 +1,7 @@
 #!/bin/bash
 C_RED1="\033[38;5;196m"
 NO_FORMAT="\033[0m"
-sudo apt-get install hping3
+#sudo apt-get install hping3
 clear
 echo """${C_RED1}
  ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░░▒▓█▓▒░      ░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░ 
